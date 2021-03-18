@@ -1,1 +1,1 @@
-Criando arquivo de teste para o curso de git.
+Alterando o arquivo de teste para o curso de git.
